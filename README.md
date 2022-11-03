@@ -13,6 +13,7 @@ This idea followed the idea of a housekeeping gene, a widely known concept in mo
 
 To calculate the amount of gene stability in each scRNA-seq data, we compare two single cell values.
 
-- Pk: the amount of each gene expressed in each cell.
+- Pk: the amount of each gene expressed in each cell. 
 - Qk: the average amount of all genes expressed in each cell.
+-- Pk and Qk is list type with length n, when the scRNA-seq data has n cells after filtering.
 
