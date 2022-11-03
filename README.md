@@ -15,5 +15,5 @@ To calculate the amount of gene stability in each scRNA-seq data, we compare two
 
 - Pk: the amount of each gene expressed in each cell. 
 - Qk: the average amount of all genes expressed in each cell.
--- Pk and Qk is list type with length n, when the scRNA-seq data has n cells after filtering.
+  - Pk and Qk is list type with length n, when the scRNA-seq data has n cells after filtering.
 
