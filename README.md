@@ -25,7 +25,7 @@ Calculated value represent how each gene is
 `difference`
 from the average level of expression in a cell.
 The difference between the two probability distributions is calculated using the Kullback-Leibler Divergence , and the smaller the 
-this value(
+this value (
 $D_{KL}$ value
 ), the more stable the figure is in the scRNA-seq data.
 
